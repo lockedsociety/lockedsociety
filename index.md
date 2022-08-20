@@ -2,6 +2,6 @@
 
 Grow by building and creating projects with team.
 
-## Lists 
+## Lists of Projects
 
 - [Todo app](https://lockedsociety.github.io/todo-app)
