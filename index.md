@@ -1,9 +1,10 @@
 # Locked Society
 
-Grow by building and creating projects with team.
+Grow by building and creating useful projects with team.
 
 ## Lists of Projects
 
-- [Todo](https://lockedsociety.github.io/todo-app)
+- [Scheduler](https://lockedsociety.github.io/todo-app)
+- [Altruism](https://lockedsociety.github.io/altruism)
 
 &copy; 2022 LockedSociety
