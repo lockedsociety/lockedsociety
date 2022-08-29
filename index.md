@@ -1,6 +1,8 @@
 # Locked Society
 
-Grow by building and creating projects with team.
+Grow by building and creating projects with team.  
+[Learn more](README.md)
+
 
 ## Lists of Projects
 
