@@ -1,6 +1,6 @@
 # LockedSociety
 
-Grow by creating projects with a team.
+Grow by creating useful projects with a team.
 
 ## Benifits
 
@@ -19,5 +19,7 @@ Grow by creating projects with a team.
 
 ## How to join
 
-- Contact admin.
+This are some of the ways you can join.
+
+- [Contact](mailto:ssujj@protonmail.com)
 - Make useful changes and create pull request.
