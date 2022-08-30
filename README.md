@@ -19,7 +19,7 @@ Grow by creating useful projects with a team.
 
 ## How to join
 
-This are some of the ways you can join.
+This are some of the ways you can join. Use any of these.
 
-- [Contact](mailto:ssujj@protonmail.com)
+- [Contact](mailto:ssujj@protonmail.com) with your resume.
 - Make useful changes and create pull request.
