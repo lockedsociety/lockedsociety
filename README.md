@@ -13,7 +13,7 @@ Grow by creating useful projects with a team.
 
 ## Prerequisite
 
-- You must know git.
+- You must know git and github.
 - You know anything that can help creating a project.
     - It can be programming language, latex, content creation etc.
 
