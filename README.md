@@ -23,3 +23,12 @@ This are some of the ways you can join. Use any of these.
 
 - [Contact](mailto:ssujj@protonmail.com) with your resume.
 - Make useful changes and create pull request.
+
+## We need people with these types of skills
+
+- Android Developer
+- IOS Developer
+- APIs
+- CP and CTF
+- Math
+- AI
