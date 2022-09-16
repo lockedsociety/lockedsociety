@@ -30,5 +30,7 @@ This are some of the ways you can join. Use any of these.
 - IOS Developer
 - APIs
 - CP and CTF
-- Math
+- Full stack web developer
+- CLI and GUI software developer
+- Math (like project euler)
 - AI

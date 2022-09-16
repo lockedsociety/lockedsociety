@@ -15,5 +15,15 @@ Grow by building and creating useful projects with team.
 To contribute, please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 and [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## We are looking for
+
+- Android Developer
+- IOS Developer
+- APIs
+- CP and CTF
+- Full stack web developer
+- CLI and GUI software developer
+- Math (like project euler)
+- AI
 
 &copy; 2022 LockedSociety
