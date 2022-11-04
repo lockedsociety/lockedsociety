@@ -13,16 +13,17 @@ Grow by creating useful projects with a team.
 
 ## Prerequisite
 
-- You must know git and github.
-- You know anything that can help creating a project.
+- You must know some git and github.
+    - You may learn from this [course](https://in.coursera.org/learn/introduction-git-github) from Google.
+- You know something that can help building a project.
     - It can be programming language, latex, content creation etc.
 
 ## How to join
 
 This are some of the ways you can join. Use any of these.
 
-- [Contact](mailto:ssujj@protonmail.com) with your resume.
 - Make useful changes and create pull request.
+- [Contact](mailto:ssujj@protonmail.com) with your resume.
 
 ## We need people with these types of skills
 

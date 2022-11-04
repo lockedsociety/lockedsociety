@@ -1,7 +1,8 @@
 # Locked Society
 
 Grow by building and creating useful projects with team.
-[Learn more](README.md)
+
+[Learn more](https://github.com/lockedsociety/lockedsociety.github.io/blob/gh-pages/README.md)
 
 ## Lists of Projects
 
