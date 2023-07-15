@@ -23,7 +23,6 @@ Grow by creating useful projects with a team.
 This are some of the ways you can join. Use any of these.
 
 - Make useful changes and create pull request.
-- [Contact](mailto:ssujj@protonmail.com) with your resume.
 
 ## We need people with these types of skills
 
