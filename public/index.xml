@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensociety</title>
+    <link>https://opensoc1ety.github.io/</link>
+    <description>Recent content on Opensociety</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://opensoc1ety.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://opensoc1ety.github.io/docs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensoc1ety.github.io/docs/about/</guid>
+      <description>LockedSociety Grow by creating useful projects with a team.
+Benifits Enhance your knowledge of what you already know. Learn new things on the process. Learn to work with a team. Collaborate with others. Make useful projects and add it to your portfolio. Meet new people. Prerequisite You must know some git and github. You may learn from this course from Google. You know something that can help building a project. It can be programming language, latex, content creation etc.</description>
+    </item>
+    
+    <item>
+      <title>Code-of-Conduct</title>
+      <link>https://opensoc1ety.github.io/docs/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensoc1ety.github.io/docs/code-of-conduct/</guid>
+      <description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://opensoc1ety.github.io/docs/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensoc1ety.github.io/docs/members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://opensoc1ety.github.io/docs/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensoc1ety.github.io/docs/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
