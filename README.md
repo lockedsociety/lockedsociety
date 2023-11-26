@@ -1,36 +1,41 @@
-# LockedSociety
+# Website
 
-Grow by creating useful projects with a team.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-## Benifits
+### Installation
 
-- Enhance your knowledge of what you already know.
-- Learn new things on the process.
-- Learn to work with a team.
-- Collaborate with others.
-- Make useful projects and add it to your portfolio.
-- Meet new people.
+```
+$ yarn
+```
 
-## Prerequisite
+### Local Development
 
-- You must know some git and github.
-    - You may learn from this [course](https://in.coursera.org/learn/introduction-git-github) from Google.
-- You know something that can help building a project.
-    - It can be programming language, latex, content creation etc.
+```
+$ yarn start
+```
 
-## How to join
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-This are some of the ways you can join. Use any of these.
+### Build
 
-- Make useful changes and create pull request.
+```
+$ yarn build
+```
 
-## We need people with these types of skills
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-- Android Developer
-- IOS Developer
-- APIs
-- CP and CTF
-- Full stack web developer
-- CLI and GUI software developer
-- Math (like project euler)
-- AI
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
